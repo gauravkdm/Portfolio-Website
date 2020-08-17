@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "This is directory to create a website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravkdm/Portfolio-Website.git"
+  },
+  "author": "Gaurav Kadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravkdm/Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/gauravkdm/Portfolio-Website#readme",
+  "devDependencies": {
+    "lite": "^4.0.5",
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}

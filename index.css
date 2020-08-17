@@ -1,0 +1,50 @@
+.bg-img{
+    background-image: url(/images/black.jpg);
+    height: 100vh;
+    background-attachment: fixed;
+    width:100%;
+    background-size: 100% 100%;
+ }
+.navbar-brand{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Orbitron', sans-serif;   
+    color: white;
+ }
+ .navbar-nav{
+    margin-left: auto;
+    
+}
+.nav-item{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 17px;
+    margin-right: 4%;
+}
+ 
+.nav-item a{
+    color: white;
+}
+.navbar{
+    padding-top: 3%;
+}
+ 
+.headerset {
+    padding-top: 300px;
+    
+}
+.headerset h1 {
+    font-size: 50px;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 2px;
+}
+.headerset h3 span{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    border-right: 1px solid white;
+    letter-spacing: 2px;
+}
+.headerset h3{
+    padding-top: 1.5%;
+    justify-content: center;
+}
