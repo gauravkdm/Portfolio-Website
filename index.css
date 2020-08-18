@@ -1,3 +1,7 @@
+body{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Orbitron', sans-serif;  
+}
 .bg-img{
     background-image: url(/images/black.jpg);
     height: 100vh;
@@ -29,22 +33,41 @@
 }
  
 .headerset {
-    padding-top: 300px;
+    padding-top: 350px;
     
 }
 .headerset h1 {
     font-size: 50px;
-    font-family: 'Cairo', sans-serif;
-    font-family: 'Orbitron', sans-serif;
     letter-spacing: 2px;
 }
 .headerset h3 span{
-    font-family: 'Cairo', sans-serif;
-    font-family: 'Orbitron', sans-serif;
     border-right: 1px solid white;
     letter-spacing: 2px;
 }
 .headerset h3{
     padding-top: 1.5%;
     justify-content: center;
+}
+.navbar-toggle{
+    border:1px solid turquoise;
+    margin-right:15px; 
+}
+.aboutme{
+    padding-top: 30px;
+}
+.pull-right{
+    float: right;
+}
+
+.progress{
+    margin-bottom: 30px;
+}
+.about-me{
+    margin-top: 100px;
+}
+.divider{
+    margin-top: 50px;
+}
+.title-name , .title-profile, .title-email, .title-phone{
+    font-weight: bold;
 }
