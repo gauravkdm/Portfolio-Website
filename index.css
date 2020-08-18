@@ -34,7 +34,6 @@ body{
  
 .headerset {
     padding-top: 350px;
-    
 }
 .headerset h1 {
     font-size: 50px;
@@ -62,6 +61,10 @@ body{
 .progress{
     margin-bottom: 30px;
 }
+.myphoto{
+    align-items: center;
+    margin-top: 10%;
+}
 .about-me{
     margin-top: 100px;
 }
@@ -70,4 +73,31 @@ body{
 }
 .title-name , .title-profile, .title-email, .title-phone{
     font-weight: bold;
+}
+.form-name{
+    padding-top: 5%;
+}
+.get-in-touch-p{
+    padding-top: 5%;
+}
+.icon-loc ,.icon-phone ,.icon-mail{
+    margin-top: 5%;
+    margin-left:2%;
+}
+.icons-group{
+    margin-top: 10%;
+    margin-left:2%;
+}
+.icons-group a {
+    margin-right: 4%;
+    font-size: medium;
+    padding: 4%;
+    border-radius: 100%;
+    border: 4px solid turquoise;
+}
+.icons-group a :hover{
+    color: white;
+    background-color: turquoise;
+    border: 4px solid turquoise;
+
 }
